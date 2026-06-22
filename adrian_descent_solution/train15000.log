@@ -1,0 +1,1 @@
+{'episodes': 15000, 'success_rate': 0.985, 'final_epsilon': 0.02, 'learning_curve': 'learning_curve.png', 'metrics_csv': 'training_metrics.csv', 'q_table': 'adrian_q_table.npz'}
