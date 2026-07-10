@@ -1,6 +1,6 @@
-# KernelMind Midterm Submission - SoC 2026
+# KernelMind Endterm Submission - SoC 2026
 
-This repository contains my midterm submission for the **SoC-26 KernelMind** project.
+This repository contains my endterm submission for the **SoC-26 KernelMind** project.
 
 The project explores operating-system scheduling, reinforcement learning based control, and neural scheduling agents. The work progresses from basic process abstractions and traditional scheduling theory to tabular reinforcement learning, meta-scheduling, and finally a direct neural CPU scheduler.
 
